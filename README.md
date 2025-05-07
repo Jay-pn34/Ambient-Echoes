@@ -21,3 +21,8 @@
    ```bash
    git clone https://github.com/Jay-pn34/Ambient-Echoes.git
    cd Ambient-Echoes
+
+## 🌐 Live Demo
+
+You can try **Ambient Echoes** live here:  
+👉 [https://jay-pn34.github.io/Ambient-Echoes/](https://jay-pn34.github.io/Ambient-Echoes/)
