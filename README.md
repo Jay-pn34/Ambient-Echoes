@@ -19,5 +19,5 @@
 
 1. Clone or download the repository:
    ```bash
-   git clone https://github.com/your-username/ambient-echoes.git
-   cd ambient-echoes
+   git clone https://github.com/Jay-pn34/Ambient-Echoes.git
+   cd Ambient-Echoes
